@@ -1,6 +1,6 @@
 # Runbook — Greyfield Industries IT Operations
 
-**Owner:** JP Pesantes · Los Angeles, CA · [github.com/jpierr](https://github.com/jpierr)
+**Owner:** JP Pesantes · Los Angeles, CA · [github.com/jpierr](https://github.com/jpierr) · [linkedin.com/in/jpierr](https://linkedin.com/in/jpierr)
 **Domain:** `greyfield.lab`
 **Environment:** On-premises hybrid Active Directory + Azure AD + M365
 
@@ -148,4 +148,5 @@ Operational summaries are filed under `reports/weekly/` using the format `YYYY-W
 **JP Pesantes**
 Los Angeles, CA
 [github.com/jpierr](https://github.com/jpierr)
+[linkedin.com/in/jpierr](https://linkedin.com/in/jpierr)
 Domain: `greyfield.lab`
