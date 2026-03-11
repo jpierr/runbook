@@ -1,4 +1,17 @@
-# Runbook — Greyfield Industries IT Operations
+
+# Enterprise IT Operations Runbook Environment
+
+Simulated enterprise IT environment used to practice real-world system
+administration, troubleshooting, and incident response across a hybrid
+Active Directory + Azure AD + Microsoft 365 infrastructure.
+
+This repository documents operational procedures, incident handling,
+automation scripts, and infrastructure configuration similar to what
+IT support engineers and systems administrators manage in production
+business environments.
+
+Environment domain: `greyfield.lab`
+Infrastructure: Windows Server 2022 + Ubuntu + Azure AD + Microsoft 365
 
 **Owner:** JP Pesantes · Los Angeles, CA · [github.com/jpierr](https://github.com/jpierr)
 **Domain:** `greyfield.lab`
@@ -9,6 +22,19 @@
 ## Overview
 
 This repository is the operational record and tooling base for Greyfield Industries' enterprise IT environment. It covers infrastructure configuration, incident documentation, runbooks, automation scripts, chaos engineering outcomes, and organizational management across a hybrid Windows/Linux footprint with cloud identity integration.
+
+---
+
+## Example Operational Tasks Practiced
+
+• Active Directory user provisioning and OU management
+• Azure AD Connect hybrid identity synchronization
+• Microsoft 365 user onboarding, licensing, and access control
+• Endpoint management using Intune policies and compliance rules
+• Incident response workflow documentation and remediation tracking
+• Monitoring and alert triage using Prometheus and Grafana
+• Automation of operational tasks using PowerShell
+• Account lockout investigation and remediation
 
 ---
 
